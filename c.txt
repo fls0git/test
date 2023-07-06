@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 460D-A7DC
+
+ Directory of C:\Users\Admin\Desktop\gitlessons\test
+
+2023/07/06  20:08    <DIR>          .
+2023/06/25  20:11    <DIR>          ..
+2023/07/06  20:08                 0 c.txt
+2023/07/06  19:55               342 d.txt
+               2 File(s)            342 bytes
+               2 Dir(s)  197ÿ985ÿ550ÿ336 bytes free
